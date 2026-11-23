@@ -1,0 +1,11 @@
+# ambiente virtual
+venv/
+
+# arquivos gerados pelo Python e pelo PyInstaller
+__pycache__/
+build/
+dist/
+*.spec
+
+# dados de acesso ao MySQL (cada pessoa cria o seu a partir do config_exemplo.py)
+config.py
